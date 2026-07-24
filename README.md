@@ -1,4 +1,10 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=24&duration=2800&pause=900&color=A855F7&center=true&vCenter=true&width=720&lines=Hey%2C+I'm+Jayanth+%F0%9F%91%8B;Aspiring+Developer+%F0%9F%92%BB;Building+skills+in+C+%2F+C%2B%2B+%E2%9A%99%EF%B8%8F;Always+learning%2C+always+shipping+%F0%9F%9A%80)](https://git.io/typing-svg)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:14B8A6&height=200&section=header&text=Jayanth&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Student%20%7C%20Aspiring%20Developer%20%7C%20C%20%2F%20C%2B%2B%20%7C%20India&descAlignY=55&descSize=18&animation=fadeIn" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=22&duration=2800&pause=900&color=A855F7&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Jayanth+%F0%9F%91%8B;Aspiring+Developer+%F0%9F%92%BB;Building+skills+in+C+%2F+C%2B%2B+%E2%9A%99%EF%B8%8F" />
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jayanth-m-a01608357"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -32,13 +38,30 @@ const jay = {
 
 ## 🛠️ Tech Stack
 
-**Languages**
+<p align="center"><b>Languages</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,js,html,css&theme=dark" />
+</p>
 
-![](https://skillicons.dev/icons?i=c,cpp&theme=dark)
+<p align="center"><b>Backend & Frameworks</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,express,firebase&theme=dark" />
+</p>
 
-**Tools & Platforms**
+<p align="center"><b>Databases & Cache</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis&theme=dark" />
+</p>
 
-![](https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark)
+<p align="center"><b>Frontend</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,tailwind&theme=dark" />
+</p>
+
+<p align="center"><b>Cloud, DevOps & Tools</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,docker,git,linux,postman,vscode,idea,github&theme=dark" />
+</p>
 
 ---
 
@@ -77,8 +100,6 @@ const jay = {
   <img src="https://raw.githubusercontent.com/jay-xx-00/jay-xx-00/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
-> ℹ️ To activate the snake animation, add the [platane/snk](https://github.com/Platane/snk) GitHub Action to this repo — it generates the SVG on the `output` branch automatically.
-
 ---
 
 ## 💬 Dev Quote of the Day
@@ -113,4 +134,8 @@ const jay = {
 
 <p align="center">
   💜 <b>Jayanth · Bengaluru, India 🇮🇳</b>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:14B8A6,100:8B5CF6&height=150&section=footer" width="100%"/>
 </p>
